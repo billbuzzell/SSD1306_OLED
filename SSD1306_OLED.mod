@@ -261,6 +261,9 @@ END SSD1306_OLED.
     ssd1306_command(0x40);
     ssd1306_command(SSD1306_DISPLAYALLON_RESUME);           // 0xA4
     ssd1306_command(SSD1306_NORMALDISPLAY);                 // 0xA6
+    
+    test entry
+    
   #endif*)
 
 
